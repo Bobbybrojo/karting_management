@@ -2,9 +2,9 @@
 A Go-Karting establishment management GUI application with a MySql backend.
 
 # Preview
-![SignUp Page]([https://postimg.cc/CZZnH0x2))
-![Racers Page](https://postimg.cc/gxt6ZjmR)
-![Races Page](https://postimg.cc/d7zk5f7V)
+![SignUp Page](https://i.postimg.cc/LsDkS6Km/Sign-Up-Screen.png)
+![Racers Page](https://i.postimg.cc/Y9S6CKMY/Racers-Screen.png)
+![Races Page](https://i.postimg.cc/wBg5nRrW/Races-Screen.png)
 
 # Running the project
 Dependencies: Python 3.11+
